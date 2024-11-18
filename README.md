@@ -1,4 +1,5 @@
-#Global Sales Data Analysis Dashboard
+Global Sales Data Analysis Dashboard
+
 Overview
 This Power BI project provides a comprehensive analysis of global sales data for the years 2013 and 2014. The dashboard showcases key metrics and visualizations that help in understanding sales performance, profitability, and regional trends.
 
